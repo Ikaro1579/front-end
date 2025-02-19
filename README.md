@@ -1,5 +1,2 @@
-
-
-rafael é um professor legal
 # front-end
-Ikaro
+Luís 2a
